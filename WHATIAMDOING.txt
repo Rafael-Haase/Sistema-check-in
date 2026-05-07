@@ -1,0 +1,3 @@
+oque estou fazendo:
+Instalando git para começar a versionar, no caso fazer o readme no GitHub.
+depois começar a modelar banco de dados
